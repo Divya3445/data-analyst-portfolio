@@ -1,5 +1,5 @@
 # data-analyst-portfolio
-Data Analyst projects using SQL ,Python, and Power BI
+Data Analyst projects using SQL ,Python, and Power BI.
  Hi, I'm Divya, a BE AIML graduate (2025) aspiring Data Analyst.
 
 ## Skills
