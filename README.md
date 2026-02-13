@@ -8,9 +8,13 @@ Data Analyst projects using SQL ,Python, and Power BI
 - Power BI (Dashboards, KPIs)
 
 ## Projects
-- SQL Sales Performance Analysis (Coming Soon)
-- Python Exploratory Data Analysis (Coming Soon)
-- Power BI Business Dashboard (Coming Soon)
+
+ 1️⃣ Retail Sales Performance Analysis (Python)
+- Analyzed 9,994 retail transactions to evaluate business performance.
+- Calculated KPIs including total revenue, profit, and profit margin (~12.5%).
+- Identified Technology as the most profitable category.
+- Found negative correlation between Discount and Profit.
+- Detected Tables as highest loss-making sub-category.
 
 ## Tools
 - SQL
